@@ -4,6 +4,6 @@ CHISE implementation based on Common Lisp
 
 |---------+-------------------------------------------------|
 | source  | git:https://gitlab.chise.org/CHISE/cl-chise.git |
-| commit  | 3f38b40                                         |
+| commit  | 0c2bc53                                         |
 | systems | cl-chise                                        |
 |---------+-------------------------------------------------|
