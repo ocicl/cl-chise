@@ -7,4 +7,4 @@ CHISE implementation based on Common Lisp
 | commit  | daee164                                         |
 | systems | cl-chise                                        |
 |---------+-------------------------------------------------|
- 
+  
